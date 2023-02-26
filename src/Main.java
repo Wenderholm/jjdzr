@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello world!" + a);
         System.out.println("Hello world!" + a);
         System.out.println("Hello world!" + a);
+
+        System.out.println("dodano test");
     }
 }
