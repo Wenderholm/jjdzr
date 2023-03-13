@@ -17,4 +17,7 @@ public class Dog {
     public void someAddedMethod(){
         System.out.println("dodana metoda");
     }
+    public void someAddedMethod2(){
+        System.out.println("dodana metoda 2");
+    }
 }
