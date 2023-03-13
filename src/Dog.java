@@ -20,4 +20,8 @@ public class Dog {
     public void someAddedMethod2(){
         System.out.println("dodana metoda 2");
     }
+
+    public void someAddedMethod3(){
+        System.out.println("dodana metoda 3");
+    }
 }
