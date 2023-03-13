@@ -12,4 +12,9 @@ public class Dog {
     public void setName(String name) {
         this.name = name;
     }
+
+
+    public void someAddedMethod(){
+        System.out.println("dodana metoda");
+    }
 }
