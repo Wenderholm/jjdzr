@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f74544-2cb6-4839-9db8-63b658543b82" name="Changes" comment="data 1">
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
       <workItem from="1677434252593" duration="1238000" />
       <workItem from="1677443967224" duration="1196000" />
       <workItem from="1678738022941" duration="433000" />
+      <workItem from="1678789238595" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="data 1">
       <created>1677434329202</created>
